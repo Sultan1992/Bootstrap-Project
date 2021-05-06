@@ -1,2 +1,2 @@
 # Bootstrap-Project
-Ogoing project by nucump coding school. 
+Ogoing project using Bootstrap css frame work.
