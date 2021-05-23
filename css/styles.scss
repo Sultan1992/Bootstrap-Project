@@ -1,3 +1,7 @@
+
+$color-teal:#17A2B8;
+
+
 $color-primary: #3046C5;
 $color-secondary: #5637dd;
 $color-pale: #CEC8FF;
@@ -66,4 +70,21 @@ a, a:hover {
 }
 .carousel-caption {
     background-color: $color-black-transparent;
+}
+
+//sass here
+#reserveModal{
+    .modal-header {
+        background-color: $color-teal;
+        color: #fff;
+       
+    }
+
+}
+#reservelogin{
+    .modal-header{
+        background-color: $color-mid;
+        color: white;
+    }
+    
 }
