@@ -71,7 +71,10 @@ a, a:hover {
 .carousel-caption {
     background-color: $color-black-transparent;
 }
-
+.site-footer{
+    background-image: linear-gradient(#CEC8FF, white);
+    padding: 20px 0;
+}
 //sass here
 #reserveModal{
     .modal-header {
